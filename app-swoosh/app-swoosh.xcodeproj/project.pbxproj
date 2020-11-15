@@ -16,6 +16,7 @@
 		039C2D53255A189B009FEA01 /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039C2D52255A189B009FEA01 /* BorderButton.swift */; };
 		03A10CD825607A9D00B9C9D8 /* LeagueVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A10CD725607A9D00B9C9D8 /* LeagueVC.swift */; };
 		03A10CDB25607AC700B9C9D8 /* SkillVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A10CDA25607AC700B9C9D8 /* SkillVC.swift */; };
+		03A10CE52560813200B9C9D8 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A10CE42560813200B9C9D8 /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		039C2D52255A189B009FEA01 /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 		03A10CD725607A9D00B9C9D8 /* LeagueVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueVC.swift; sourceTree = "<group>"; };
 		03A10CDA25607AC700B9C9D8 /* SkillVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillVC.swift; sourceTree = "<group>"; };
+		03A10CE42560813200B9C9D8 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				039C2D44255A059B009FEA01 /* Assets.xcassets */,
 				039C2D46255A059B009FEA01 /* LaunchScreen.storyboard */,
 				039C2D49255A059B009FEA01 /* Info.plist */,
+				03A10CE42560813200B9C9D8 /* Player.swift */,
 			);
 			path = "app-swoosh";
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				039C2D40255A059A009FEA01 /* ViewController.swift in Sources */,
 				039C2D3C255A059A009FEA01 /* AppDelegate.swift in Sources */,
 				039C2D3E255A059A009FEA01 /* SceneDelegate.swift in Sources */,
+				03A10CE52560813200B9C9D8 /* Player.swift in Sources */,
 				03A10CDB25607AC700B9C9D8 /* SkillVC.swift in Sources */,
 				039C2D53255A189B009FEA01 /* BorderButton.swift in Sources */,
 			);
